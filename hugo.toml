@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://caswanson.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Carina Swanson'
 theme = 'digitalgarden'
