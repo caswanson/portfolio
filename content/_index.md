@@ -4,17 +4,12 @@ title: Homepage
 
 # Hello 👋
 
-**Welcome to my digital garden!**
+**Welcome to my portfolio!**
 
-A digital garden is like a personal wiki and a knowledge database of thoughts and ideas. Similar to a traditional garden, a digital one will also container various kinds of content (plants), of which may even be unrelated to each other. Ideas are not refined, thoughts are not tailored. Here is an excellent write-up about the [history of digital gardens](https://maggieappleton.com/garden-history)
+I'm Carina! I'm a developer and design enthusiast. My interests lie in **excellent, clean design** and the **intersection of tech and non-profit work**. I have development experience at multiple nonprofits, most notably at Love Justice International, where I designed and developed a mobile app in React Native to aid in the organization's anti-trafficking efforts. I love innovating and learning new tech stacks and design methodologies.
 
+I'm an avid kombucha drinker, concert-goer, and outdoors-lover. I'd love to connect with you!
 
-Twitter, for some, is also equivalent to a digital garden. It lets you share thoughts and ideas with everyone. But how often do you go back to those tweets? Not often. That's why you need a space for your ideas on the internet **that you own**. Check out `Digital gardens let you cultivate your own little bit of the internet` [post](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) by MIT technology review 
+Say hello 💬, drop me a link to what you're loving right now 💡, or poke around my portfolio 💫!
 
-<hr />
-
-Building your own digital garden is not a fad. It's a necessity. Tools like Roam Research, Obsidian and Notion provided means to interlink content, even over a graphical way. Still not sold? Check out [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10) by Josh Branchaud.
-
-Start collecting your ideas 💡, curate thought provoking & interesting content 💬&nbsp; and learn.
-
-→ [Go to Documentation](/articles)
+→ [Check out my work](/portfolio)
