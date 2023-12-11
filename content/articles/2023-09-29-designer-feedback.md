@@ -16,4 +16,4 @@ images:
 6. Foster ownership in designers to prevent defensiveness
 7. Frame feedback as “advice”
 
-[Link to Inside Design's Designer Feedback Article](https://www.invisionapp.com/inside-design/give-designers-feedback/)
+[Designer Feedback](https://www.invisionapp.com/inside-design/give-designers-feedback/)

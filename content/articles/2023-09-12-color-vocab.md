@@ -12,4 +12,4 @@ I found that all of the color terms can easily blend together and become meaning
 
 <img src='/images/color-flow-chart.jpg'>
 
-[Link to _The Complete Color Harmony, Pantone Edition: Expert Color Information for Professional Results_](https://www.amazon.com/Complete-Color-Harmony-Pantone-Professional/dp/1631592963)
+[The Complete Color Harmony, Pantone Edition: Expert Color Information for Professional Results](https://www.amazon.com/Complete-Color-Harmony-Pantone-Professional/dp/1631592963)

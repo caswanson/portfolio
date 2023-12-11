@@ -12,4 +12,4 @@ Humans are naturally drawn to faces. We spot them where there are none, and our 
 
 <img src='/images/kombuchaAd.jpg'>
 
-[Link to _Presentation Zen: Simple Ideas on Presentation Design and Delivery_](hhttps://www.amazon.com/Presentation-Zen-Simple-Design-Delivery/dp/0135800919)
+[Presentation Zen: Simple Ideas on Presentation Design and Delivery](hhttps://www.amazon.com/Presentation-Zen-Simple-Design-Delivery/dp/0135800919)
