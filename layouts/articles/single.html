@@ -51,12 +51,14 @@
 			<br/> Pruned {{ .Lastmod.Format "January 2, 2006" }}
         {{ end }}
 	  </p>
+    <!--
       {{ end }}
 
       {{ with .Params.images }}
       {{- range . }}
+      <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
       {{ end -}}
-      {{ end }}
+      {{ end }} -->
 
       {{ .Content }}
     </article>
