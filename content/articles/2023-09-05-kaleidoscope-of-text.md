@@ -19,6 +19,7 @@ Users scan, not read, web pages. Surfing the web is often a hurried, almost fran
 - Format content to support scanning
 
 <img src='/images/kaleid1.jpg'>
+![Kaleidoscope](/images/kaleid1.jpg "Kaleidoscope Image")
 <img src='/images/kaleid2.jpg'>
 
 I believe Kaleidoscope, a scholarship and grant management software site, does an excellent and aesthetically-pleasing job of making the most of user’s attention. There are many small details I love about the site and design features that make it beautiful to look at, but I think the site does a particularly nice job of eliminating distractions to center the user’s the most pertinent information first. When you first navigate to the page, a large, six-word tagline appears front and center in the page with a longer sentence sub-heading it inviting the user to join their software. Two contrasting buttons sit below this text, and this is all the page contains. Only when a user scrolls down and then up again does a bar show up on the top presenting the user with many more navigation choices. This information can be obscured when a user first visits a site because Kaleidoscope is delivering the most basic information about what they do first. The user isn’t distracted by too many choices right off the bat.

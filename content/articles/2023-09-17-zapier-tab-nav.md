@@ -12,4 +12,4 @@ In _Don't Make Me Think_, tabs are praised for providing clear navigation to all
 
 <img src='/images/zapier-tabs.jpg'>
 
-[Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?crid=2WTXEL380MCYF&keywords=dont+make+me+think+steve+krug&qid=1693977266&sprefix=dont+make+me+think%2Caps%2C169&sr=8-1)
+[Don&apos;t Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?crid=2WTXEL380MCYF&keywords=dont+make+me+think+steve+krug&qid=1693977266&sprefix=dont+make+me+think%2Caps%2C169&sr=8-1)
