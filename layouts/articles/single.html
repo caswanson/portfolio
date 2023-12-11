@@ -54,7 +54,7 @@
       {{ end }}
 
       {{ with .Params.images }}
-      {{- range first 1 . }}
+      {{- range . }}
       <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
       {{ end -}}
       {{ end }}
