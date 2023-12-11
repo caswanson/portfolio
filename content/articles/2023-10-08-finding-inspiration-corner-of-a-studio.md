@@ -31,6 +31,7 @@ Something about the painting’s bright colors made me want to design something 
 I loved discovering and gathering inspiration from “Corner of Studio”. Through my research on perspective, I learned some interesting details about the historical use of perspective in different cultures. For example, the way the ancient Egyptians used perspective/depth in their art was very different than the way European artists used it during the Renaissance.
 
 **Citations**
+
 Doherty, R. (2021, October 10). _The rule of thirds – how experts use this design trick for successful schemes_. homesandgardens.com. https://www.homesandgardens.com/advice/rule-of-thirds
 
 Freilicher, J. (1973). _Corner of studio_ Nelson Atkins Museum of Art, Kansas City.
