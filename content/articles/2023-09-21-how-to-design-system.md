@@ -8,6 +8,8 @@ images:
   - /images/design-systems.jpg
 ---
 
+![Example design systsem](/images/design-systems.jpg)
+
 1. Build a Typographic Scale
 
 A typographic scale is a series of font sizes and line heights: essentially everything having to do with the spacing and sizing of your text. Usually, the most basic typographic scale is composed of a title, header, body, subtitle, and button size, or h1-h6. Make sure to take into account strong (bold) and emphasized (italic) styles in your typographic scales. You can use the golden ratio to define the different font sizes. Lastly, consider the spacing that you want between the letters in the different sizes of your font. Make sure to include instructions on proper use of your typographic scale to ensure that designers and engineers alike are utilizing the overall design system correctly.

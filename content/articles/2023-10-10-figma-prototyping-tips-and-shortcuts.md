@@ -8,6 +8,8 @@ images:
   - /images/figma-logo.jpg
 ---
 
+![Figma logo](/images/figma-logo.jpg)
+
 Figma is a tool only growing in prevelance in the design world, so it pays to know the application and it's handy shortcuts inside out to stay on the cutting egde! In this post, I've complied some helpful and sometimes obsure tips for prototyping in Figma.
 
 **It All Starts With Components**

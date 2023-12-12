@@ -8,6 +8,8 @@ images:
   - /images/feedback.jpg
 ---
 
+![Stock graphic art of people talking](/images/feedback.jpg)
+
 1. Use a mix of heart and mind in your feedback to show you genuinely care, but be clear in your communication
 2. Redirect the bad and reinforce the good
 3. Give feedback on one aspect of their design at a time

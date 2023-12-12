@@ -4,6 +4,8 @@ date: 2023-08-26
 permalink: /posts/2023/08/delight-in-design/
 tags:
   - WordJournal
+images:
+  - /images/turkish-delight.jpg
 ---
 
 ![Turkish Delight](/images/turkish-delight.jpg)

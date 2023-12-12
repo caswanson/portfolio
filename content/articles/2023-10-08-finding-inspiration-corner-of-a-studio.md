@@ -8,6 +8,8 @@ images:
   - /images/corner-of-a-studio.jpg
 ---
 
+![Corner of a Studio art piece](/images/corner-of-a-studio.jpg)
+
 While visiting the Nelson Atkins Art Museum in Kansas City this weekend I was struck by one piece that inspired me by its cheerful, bright color scheme and serene mood. The painting was entitled “Corner of Studio” and was painted by Jane Freilicher in 1973. Freilicher loved to paint scenes from her homes in urban and rural New York.
 
 **Perspective**
@@ -24,7 +26,7 @@ Freilicher uses the rule of thirds and an unique view point to add dimension and
 
 Taking inspiration from “Corner of Studio”, I designed a quick mock up of a mobile app for caretakers to track baby’s activities throughout the day while the guardian/parent is away. The babysitter or person in charge of childcare can input activity throughout the day to keep the parent updated, such as nap length or what they had for lunch. There is even a “journal” feature where users can input cute or silly things about the baby that they want to record for the parents/guardian to see later.
 
-<img src='/images/grown.jpg'>
+![Sketch of app home screen](/images/grown.jpg)
 
 Something about the painting’s bright colors made me want to design something baby-related. The playful colors seemed bright and stimulating enough for a mobile app with good enough contrast but pastel enough to work with a soft “baby” theme. In the final version of the app, there would be lots of color — those similar to the colors in “Corner of Studio”.
 

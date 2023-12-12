@@ -8,6 +8,8 @@ images:
   - /images/un-flags.jpg
 ---
 
+![Variety of flags outside Dubai world expo](/images/un-flags.jpg)
+
 I recently participated in a design accessibility workshop modeled like a UN Summit, with students each representing different populations to keep in mind when creating inclusive designs. The representatives advocated for their population and certain design features that their population would benefit from, such as image alt-text for blind people. The reps discussed with one another and worked to convince others that their design features should be given a higher priority than others on the proposal document. Coalitions were formed between certain representatives when their population’s needs aligned.
 
 I was representing non-native speakers. I learned that non-native speakers benefit from standard interface language (ex: making trash/delete one uniform term), no overly clever language, and icons accompanying text. The topic discussed at the summit was the accessibility of the Sarpy County early ballot request site. All representatives were proposing changes to this site based on their population’s needs. I suggested that non-native speakers would benefit from simplified copy to increase readability, icons expressing early ballot availability (x for none available, prompts to action for other options), and fully localized page view options translated by native speakers.
