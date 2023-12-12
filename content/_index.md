@@ -12,4 +12,4 @@ I'm an avid kombucha drinker, concert-goer, and outdoors-lover. I'd love to conn
 
 Say hello 💬, drop me a link to what you're loving right now 💡, or poke around my portfolio 💫!
 
-Check out my resume [here](carina-resume.pdf)
+Check out my resume [here](carina-swanson-resume.pdf) 💌
