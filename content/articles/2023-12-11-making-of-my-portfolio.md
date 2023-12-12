@@ -5,10 +5,10 @@ permalink: /posts/2023/12/making-of-my-portfolio/
 tags:
   - Misc
 images:
-  - /images/cs.jpg
+  - /images/cs-logo.jpg
 ---
 
-![Initials logo](/images/cs.jpg)
+![Initials logo](/images/cs-logo.jpg)
 
 Throughout the process of making my portfolio, I aimed to make every component of it clean and minimal. This extended to navigation as well. I organized my portfolio up into three main sections: home (which includes an intro and info about me), articles (which includes all of my blog posts, including original work and things I've studied), and portfolio (which includes my polished finalized works). I've also organized an intuitive way to navigate through the "articles" section by providing an always-open scrollable sidebar which displays all of the articles.
 
